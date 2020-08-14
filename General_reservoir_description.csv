@@ -1,0 +1,6 @@
+﻿gridblock_number,gridblock_lenght(ft),permeability(md),Water_flow_rate(ft3/d),Oil_flow_rate(ft3/d),,porosity
+0,0,1,0,0,,0
+1,333,100,426.5,0,,0.2
+2,333,100,0,0,,0.2
+3,333,100,0,-426.5,,0.2
+NX,0,1,0,0,,0
